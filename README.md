@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amandathelink
 - 👀 I’m interested in Dota 2, Stardew Valley, Romance books, Youtube and broken humor. 
-- 🌱 I’m currently learning Java Script, HTML, CSS and C#. 
+- 🌱 I’m currently learning Phyton and SQL. 
 - 💞️ I’m looking to collaborate on any back end project. 
 - 📫 How to reach me amandarlsantos@gmail.com
 
